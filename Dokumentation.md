@@ -244,17 +244,17 @@ V:Vollzugriff\
 S:Schreiben\
 L: Lesen
 
-  -----------------------------------------------------------------------------------
-  Pfad/Gruppe      |               IT_Administrator |  Arbeiter |  Finance  | Human Ressource |
-                                                                          
-  ------------------------------- ------------------ ---------- --------- -----------
+ 
+ | Pfad/Gruppe      |               IT_Administrator |  Arbeiter |  Finance  | Human Ressource |
+  -----------------------------------------------------------------------------------------------                                                                        
+
  | \\\\JOFWSV00001\\Finanzen    |   V     |             X    |      L,S    |   X|
 
  | \\\\JOFWSV00001\\Human Resources      |     V    |              X    |      X       |  L,S |
                                                             
 
-  \\\\JOFWSV00001\\Organisation  | V              |    L,S    |    L,S   |    L,S|
-  -----------------------------------------------------------------------------------
+  |\\\\JOFWSV00001\\Organisation  | V              |    L,S    |    L,S   |    L,S|
+  
 
 #  **Webserver**
 
@@ -338,7 +338,7 @@ Laufwerk E: des Servers "JOFWSV00001" und dem Webserver «JOFLSV00050»
 welches lokal gehostet wird.
 
 Das Konzept sieht grundsätzlich folgende 3 Stufen vor:\
-\
+
 - Full Backups auf dem «JOFWSV00020» welche mit Veeam durchgeführt
 werden und simple Wiederherstellungen ermöglichen.\
 \
@@ -358,8 +358,7 @@ ebenso für 22 Tage![Ein Bild, das Text, Screenshot, Schrift, Reihe
 enthält. Automatisch generierte
 Beschreibung](./media/image9.png)![Ein Bild, das Text, Screenshot,
 Schrift, Reihe enthält. Automatisch generierte
-Beschreibung](./media/image10.png){width="4.742077865266841in"
-height="1.2501082677165354in"}\
+Beschreibung](./media/image10.png)\
 ![Ein Bild, das Text, Schrift, Reihe, Screenshot enthält. Automatisch
 generierte
 Beschreibung](./media/image11.png)\
@@ -395,8 +394,7 @@ generierte
 Beschreibung](./media/image18.png)\
 Danach wählt man die VM aus die restored werden muss.**\
 **![Ein Bild, das Text, Screenshot, Schrift, Software enthält.
-Automatisch generierte Beschreibung](./media/image19.png){width="6.3in"
-height="1.875in"}
+Automatisch generierte Beschreibung](./media/image19.png)
 
 Und wählt aus wohin die VM restored werden soll:\
 in unserem Fall wurde die VM aus Versehen gelöscht aber keine Disk wurde
