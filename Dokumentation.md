@@ -243,16 +243,12 @@ S:Schreiben\
 L: Lesen
 
  
- | Pfad/Gruppe      |               IT_Administrator |  Arbeiter |  Finance  | Human Ressource |
-  -----------------------------------------------------------------------------------------------                                                                        
+| Pfad/Gruppe                 | IT_Administrator | Arbeiter | Finance | Human Ressource |
+|-----------------------------|------------------|----------|---------|-----------------|
+| \\\\JOFWSV00001\\Finanzen   | V                | X        | L,S     | X               |
+| \\\\JOFWSV00001\\Human Resources | V                | X        | X       | L,S             |
+| \\\\JOFWSV00001\\Organisation | V                | L,S      | L,S     | L,S             |
 
- | \\\\JOFWSV00001\\Finanzen    |   V     |             X    |      L,S    |   X|
-
- | \\\\JOFWSV00001\\Human Resources      |     V    |              X    |      X       |  L,S |
-                                                            
-
-  |\\\\JOFWSV00001\\Organisation  | V              |    L,S    |    L,S   |    L,S|
-  
 
 #  **Webserver**
 
