@@ -2,8 +2,6 @@
 
 # Inhalt 
 
-[Betriebskonzept ](# Einführung)
-
 [Einführung](#einführung)
 
 [Organisation ](#organisation)
