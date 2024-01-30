@@ -457,24 +457,14 @@ durchgeführt wird. Im Folgenden die Liste der Checks, die monatlich vom
 IT-Administrator direkt durchgeführt und protokolliert werden. Schritt
 Aktivität.
 
-  ---------------------------------------------------------------------------
-  Schritt   Tätigkeit                                                Check
-  --------- -------------------------------------------------------- --------
-  **1**     **Server Einloggen und Windows Updates durchführen.**    
+| Schritt | Tätigkeit | Check |
+|---------|-----------|-------|
+| **1**   | **Server Einloggen und Windows Updates durchführen.** | |
+| **2**   | **Laufwerk C und E prüfen, ob mindestens 10% freier Speicherplatz, sofern unterschritten, den IT-Administrator kontaktieren** | |
+| **3**   | **Auf «JOFWSV00020» überprüfen, ob die Daily FullBackups funktioniert haben und diese zu testzwecken einspielen.** | |
+| **4**   | **Die Aktualität der Workstations überprüfen** | |
+| **5**   | **Im JOFWSV00060 überprüfen ob die Backups funktionieren.** | |
 
-  **2**     **Laufwerk C und E prüfen, ob mindestens 10% freier      
-            Speicherplatz, sofern unterschritten, den                
-            IT-Administrator kontaktieren**                          
-
-  **3**     **Auf «JOFWSV00020» überprüfen, ob die Daily FullBackups 
-            funktioniert haben und diese zu testzwecken              
-            einspielen.**                                            
-
-  **4**     **Die Aktualität der Workstations überprüfen**           
-
-  **5**     **Im JOFWSV00060 überprüfen ob die Backups               
-            funktionieren.**                                         
-  ---------------------------------------------------------------------------
 
 Die ausgefüllte Checkliste wird an den CEO zurückgegeben. Eventuelle
 Probleme werden thematisiert und in der Checkliste aufgeführt. So soll
