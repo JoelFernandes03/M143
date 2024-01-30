@@ -1,6 +1,6 @@
 # Betriebskonzept
 
-# Inhalt {#inhalt .TOC-Heading}
+# Inhalt 
 
 [Betriebskonzept ](# Einführung)
 
