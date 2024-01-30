@@ -273,7 +273,7 @@ verursachen würde.**\
 **
 
 **\
-**[]{#_Toc157493634 .anchor}**Speicherbedarf**
+**[]**Speicherbedarf**
 
 Im jetzigen Moment benötigen die Systeme insgesamt etwa 40 GB.\
 Da die Files, die die Mitarbeiter benötigen kein Video und Bilder.\
@@ -281,11 +281,11 @@ Es werden die Fullbackups des AD für einen Monat lang gespeichert, bei
 dem Server jedoch nur für 1 Woche da sich dort relativ wenig ändern
 wird.\
 Mit dem wintelguy.com Tool wurde der Speicherbedarf errechnet:**\
-**![](./media/image8.png){width="6.3in" height="2.298611111111111in"}\
+**![](./media/image8.png)\
 Es werden für den Hauptstandort 3 HDD Disk je 1 TB benötigt.\
 Im aussenstehenden Posten werden noch 2 HDD Disk mit je 500 GB Benötigt.
 
-[]{#_Toc157493635 .anchor}**Ressourcen Bedarf**
+[]**Ressourcen Bedarf**
 
 Der Active Directory benötigt: 4 GB Ram und 4 Kerne je 2,2GHz
 Taktfrequenz.\
