@@ -2,60 +2,50 @@
 
 # Inhalt {#inhalt .TOC-Heading}
 
-[Betriebskonzept [1](#betriebskonzept)](#betriebskonzept)
+[Betriebskonzept ](# Einführung)
 
-[Einführung [3](#einführung)](#einführung)
+[Einführung](#einführung)
 
-[Organisation [3](#organisation)](#organisation)
+[Organisation ](#organisation)
 
-[Verantwortlichkeiten [3](#verantwortlichkeiten)](#verantwortlichkeiten)
+[Verantwortlichkeiten](#verantwortlichkeiten)
 
-[Infrastruktur [4](#infrastruktur)](#infrastruktur)
+[Infrastruktur](#infrastruktur)
 
-[Systeme [4](#systeme)](#systeme)
+[Systeme](#systeme)
 
-[Netzwerk [4](#netzwerk)](#netzwerk)
+[Netzwerk](#netzwerk)
 
-[Computerhardware [4](#computerhardware)](#computerhardware)
+[Computerhardware](#computerhardware)
 
-[Software [5](#software)](#software)
+[Software](#software)
 
-[Definitive Erweiterungen
-[5](#definitive-erweiterungen)](#definitive-erweiterungen)
+[Definitive Erweiterungen](#definitive-erweiterungen)
 
-[Technische Beschreibung der Systeme
-[5](#technische-beschreibung-der-systeme)](#technische-beschreibung-der-systeme)
+[Technische Beschreibung der Systeme](#technische-beschreibung-der-systeme)
 
-[Betriebssysteme [6](#betriebssysteme)](#betriebssysteme)
+[Betriebssysteme ](#betriebssysteme)
 
-[Speichersysteme [8](#speichersysteme)](#speichersysteme)
+[Speichersysteme ](#speichersysteme)
 
-[Verzeichnis-, Rechte- und Benutzerstrukturen
-[9](#verzeichnis--rechte--und-benutzerstrukturen)](#verzeichnis--rechte--und-benutzerstrukturen)
+[Verzeichnis-, Rechte- und Benutzerstrukturen](#verzeichnis--rechte--und-benutzerstrukturen)
 
-[Webserver [9](#webserver)](#webserver)
+[Webserver](#webserver)
 
-[Speicherbedarf [10](#_Toc157493634)](#_Toc157493634)
+[Speicherbedarf](#_Toc157493634)
 
-[Ressourcen Bedarf [10](#_Toc157493635)](#_Toc157493635)
+[Ressourcen Bedarf ](#_Toc157493635)
 
-[**Möglichkeiten der Datensicherung**
-[11](#möglichkeiten-der-datensicherung)](#möglichkeiten-der-datensicherung)
+[**Möglichkeiten der Datensicherung**](#möglichkeiten-der-datensicherung)
 
-[2. Veeam Server [17](#veeam-server)](#veeam-server)
+[2. Veeam Server](#veeam-server)
+[Datenschutzbestimmungen](#datenschutzbestimmungen)
 
-[Gemäss [17](#_Toc157493638)](#_Toc157493638)
+[Geschäftsbücherverordnung](#geschäftsbücherverordnung)
 
-[Datenschutzbestimmungen
-[18](#datenschutzbestimmungen)](#datenschutzbestimmungen)
+[Kosten](#kosten)
 
-[Geschäftsbücherverordnung
-[19](#geschäftsbücherverordnung)](#geschäftsbücherverordnung)
-
-[Kosten [19](#kosten)](#kosten)
-
-[Verbindung auf Umgebung
-[20](#verbindung-auf-umgebung)](#verbindung-auf-umgebung)
+[Verbindung auf Umgebung](#verbindung-auf-umgebung)
 
 #  Einführung
 
@@ -164,8 +154,7 @@ Alle Mitarbeiter besitzen eine Workstation, ausser Der Herr Jasberger,
 der Besitz einen Laptop welches aber ebenso an einem Lan-Kabel
 angeschlossen wird, sobald er im Büro arbeitet.\
 ![Ein Bild, das Text, Diagramm, Screenshot, Plan enthält. Automatisch
-generierte Beschreibung](./media/image1.png){width="6.3in"
-height="3.542361111111111in"}
+generierte Beschreibung](./media/image1.png)
 
 # Software
 
@@ -205,24 +194,20 @@ Routers oder der Firewall. Im Folgenden wird auf die Konfiguration des
 Servers eingegangen. Hier sind die grundlegenden Einstellungen des
 Servers und seiner Domäne zu sehen:\
 ![Ein Bild, das Text, Screenshot enthält. Automatisch generierte
-Beschreibung](./media/image2.png){width="7.110672572178478in"
-height="1.7118285214348206in"}
+Beschreibung](./media/image2.png)
 
 Konfigurationen des DNS:\
 ![Ein Bild, das Text, Reihe, Schrift, Zahl enthält. Automatisch
-generierte Beschreibung](./media/image3.png){width="6.3in"
-height="2.029861111111111in"}
+generierte Beschreibung](./media/image3.png)
 
 Konfigurationen des DHCP :\
 ![Ein Bild, das Text, Screenshot, Software, Computersymbol enthält.
-Automatisch generierte Beschreibung](./media/image4.png){width="6.3in"
-height="2.189583333333333in"}
+Automatisch generierte Beschreibung](./media/image4.png)
 
 Benutzer und Gruppen:\
 ![Ein Bild, das Text, Screenshot, Software, Display enthält. Automatisch
 generierte
-Beschreibung](./media/image5.png){width="6.2672101924759405in"
-height="4.392047244094488in"}
+Beschreibung](./media/image5.png)
 
 # Speichersysteme
 
@@ -243,8 +228,7 @@ Im Folgenden sind Screenshots direkt aus der Umgebung zu sehen, um die
 Speichersysteme visuell darzustellen. Speichersysteme des Servers:
 
 ![Ein Bild, das Screenshot, Text, Reihe, Diagramm enthält. Automatisch
-generierte Beschreibung](./media/image6.png){width="7.065127952755906in"
-height="2.7023807961504813in"}
+generierte Beschreibung](./media/image6.png)
 
 ## Verzeichnis-, Rechte- und Benutzerstrukturen
 
@@ -279,8 +263,7 @@ der von Ihnen selbst gehostet. Dieser wird ebenso gebackupt**.**
 
 ![Ein Bild, das Text, Kleine bis mittelgroße Katzen, Screenshot,
 Schnurrhaare enthält. Automatisch generierte
-Beschreibung](./media/image7.png){width="6.3in"
-height="3.9722222222222223in"}
+Beschreibung](./media/image7.png)
 
 Die Verbindung zum Server soll nur über HTTPS möglich sein, da
 Kontaktdaten auf dem Server auf das Geschäft gesendet werden können über
@@ -359,9 +342,6 @@ Das Konzept sieht grundsätzlich folgende 3 Stufen vor:\
 - Full Backups auf dem «JOFWSV00020» welche mit Veeam durchgeführt
 werden und simple Wiederherstellungen ermöglichen.\
 \
--Differenzielle Backups des TRUE NAS, welches an einem anderen Standort
-sich befindet.\
-\
 -Files Backup: Auf dem «JOFWSV00020» wird ebenso täglich nur die Files
 des Laufwerk E: gespeichert, um das Schnelles rüber kopieren der Files
 ermöglicht.\
@@ -376,52 +356,43 @@ werden täglich um 3 Uhr und 2 Uhr morgens durchgeführt.\
 Der Webserver wird für 22 Tage aufbewahrt und die Backups des AD werden
 ebenso für 22 Tage![Ein Bild, das Text, Screenshot, Schrift, Reihe
 enthält. Automatisch generierte
-Beschreibung](./media/image9.png){width="5.758832020997375in"
-height="0.49170931758530184in"}![Ein Bild, das Text, Screenshot,
+Beschreibung](./media/image9.png)![Ein Bild, das Text, Screenshot,
 Schrift, Reihe enthält. Automatisch generierte
 Beschreibung](./media/image10.png){width="4.742077865266841in"
 height="1.2501082677165354in"}\
 ![Ein Bild, das Text, Schrift, Reihe, Screenshot enthält. Automatisch
 generierte
-Beschreibung](./media/image11.png){width="3.758659230096238in"
-height="0.5500481189851268in"}\
+Beschreibung](./media/image11.png)\
 Das Backup kann manuell ganz einfach unter «Home» danach auf «Jobs»
 unter «Backup» gestartet werden:\
 ![Ein Bild, das Text, Screenshot, Software, Computersymbol enthält.
 Automatisch generierte
-Beschreibung](./media/image12.png){width="3.5970581802274717in"
-height="5.361998031496063in"}\
+Beschreibung](./media/image12.png)\
 Das File Backup hat ebenso funktioniert und wird am Abend um 23:00
 gebackupt.**\
-**![](./media/image13.png){width="5.792168635170603in"
-height="0.3917005686789151in"}\
+**![](./media/image13.png)\
 Die Files werden auf dem BAckupsurver unter «F:\\Backup\\Files»
 gespeichert.![Ein Bild, das Text, Screenshot, Zahl enthält. Automatisch
-generierte Beschreibung](./media/image14.png){width="6.3in"
-height="1.8590277777777777in"}\
+generierte Beschreibung](./media/image14.png)\
 \
 Restore Verfahren über Veeam
 
 Bei einem Server Ausfall kann man wie folgt gehen**\
 **![Ein Bild, das Text, Screenshot, Software, Computersymbol enthält.
 Automatisch generierte
-Beschreibung](./media/image15.png){width="6.017188320209974in"
-height="1.9501695100612424in"}**\
+Beschreibung](./media/image15.png)**\
 **Danach auf restore from backup**\
 **![Ein Bild, das Text, Screenshot, Schrift enthält. Automatisch
 generierte
-Beschreibung](./media/image16.png){width="4.507031933508311in"
-height="3.8440463692038493in"}**\
+Beschreibung](./media/image16.png)**\
 **In unserem Beispiel ist die ganze Vm zerstört worden, darum wählen
 wir» Entire VM Restore» aus:**\
 **![Ein Bild, das Text, Screenshot, Schrift, Zahl enthält. Automatisch
-generierte Beschreibung](./media/image17.png){width="5.01820428696413in"
-height="4.273978565179353in"}**\
+generierte Beschreibung](./media/image17.png)**\
 **danach auf «Entire VM restore».**\
 **![Ein Bild, das Text, Screenshot, Schrift, Zahl enthält. Automatisch
 generierte
-Beschreibung](./media/image18.png){width="5.867175196850393in"
-height="3.2586154855643046in"}\
+Beschreibung](./media/image18.png)\
 Danach wählt man die VM aus die restored werden muss.**\
 **![Ein Bild, das Text, Screenshot, Schrift, Software enthält.
 Automatisch generierte Beschreibung](./media/image19.png){width="6.3in"
@@ -431,37 +402,31 @@ Und wählt aus wohin die VM restored werden soll:\
 in unserem Fall wurde die VM aus Versehen gelöscht aber keine Disk wurde
 beschädigt.\
 ![Ein Bild, das Text, Screenshot, Schrift, Webseite enthält. Automatisch
-generierte Beschreibung](./media/image20.png){width="6.3in"
-height="2.529861111111111in"}**\
+generierte Beschreibung](./media/image20.png)**\
 **Die VM wird für den Restore danach ausgeschalten und gelöscht, da aber
 in unserem Fall die VM eh nicht mehr funktioniert stellt das kein
 Problem dar.**\
 \
 **![Ein Bild, das Text, Screenshot, Software, Computersymbol enthält.
-Automatisch generierte Beschreibung](./media/image21.png){width="6.3in"
-height="3.3520833333333333in"}**\
+Automatisch generierte Beschreibung](./media/image21.png)**\
 **![Ein Bild, das Text, Screenshot, Schrift, Reihe enthält. Automatisch
 generierte
-Beschreibung](./media/image22.png){width="3.900337926509186in"
-height="1.2084383202099738in"}**\
+Beschreibung](./media/image22.png)**\
 **danach kommt nochmals eine Zusammenfassung und dort kann man
 kontrollieren, ob alles stimmt.**\
 **![Ein Bild, das Text, Screenshot, Display, Schrift enthält.
 Automatisch generierte
-Beschreibung](./media/image23.png){width="4.600399168853893in"
-height="3.2586154855643046in"}**\
+Beschreibung](./media/image23.png)**\
 **Danach kommt ein Fenster welches log mässig aufzeigt an was der
 Restore gerade dran ist:**\
 **![Ein Bild, das Text, Screenshot, Display, Zahl enthält. Automatisch
 generierte
-Beschreibung](./media/image24.png){width="4.842086614173228in"
-height="3.700320428696413in"}**\
+Beschreibung](./media/image24.png)**\
 **Wie an dem Screenshot zu sehen funktioniert der Webserver
 einwandfrei:**\
 **![Ein Bild, das Text, Screenshot, Kleine bis mittelgroße Katzen,
 Schnurrhaare enthält. Automatisch generierte
-Beschreibung](./media/image25.png){width="6.3in"
-height="3.9791666666666665in"}
+Beschreibung](./media/image25.png)
 
 # **2. Veeam Server**
 
@@ -481,12 +446,10 @@ Auszuwählen, daher Webserver und Active Directory.\
 \
 Das Fullbackup hat ebenso auf dem zweiten Server funktioniert.\
 ![Ein Bild, das Text, Screenshot, Software, Schrift enthält. Automatisch
-generierte Beschreibung](./media/image26.png){width="6.3in"
-height="1.8680555555555556in"}\
+generierte Beschreibung](./media/image26.png)\
 und die Backup Disks sehen wie folgt aus:\
 ![Ein Bild, das Text, Reihe, Software, Screenshot enthält. Automatisch
-generierte Beschreibung](./media/image27.png){width="6.3in"
-height="0.9770833333333333in"}**\
+generierte Beschreibung](./media/image27.png)**\
 Qualitätskontrolle**
 
 Um bestimmte Standards einzuhalten, werden in diesem Abschnitt die
@@ -615,8 +578,7 @@ Um sich auf die Umgebung zu verbinden muss eine VPN Verbindung erstellt
 werden mit folgenden Setting:\
 ![Ein Bild, das Text, Elektronik, Screenshot, Software enthält.
 Automatisch generierte
-Beschreibung](./media/image28.png){width="3.0081189851268593in"
-height="2.1748523622047244in"}\
+Beschreibung](./media/image28.png)\
 Benutzer : rohr\
 Pass: M143.1234\
 Man kann danach über RDP auf alle 4 Server eine RDP Verbindung
