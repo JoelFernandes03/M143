@@ -267,7 +267,7 @@ verursachen würde.**\
 **
 
 **\
-**[]**Speicherbedarf**
+**Speicherbedarf**
 
 Im jetzigen Moment benötigen die Systeme insgesamt etwa 40 GB.\
 Da die Files, die die Mitarbeiter benötigen kein Video und Bilder.\
@@ -279,14 +279,14 @@ Mit dem wintelguy.com Tool wurde der Speicherbedarf errechnet:**\
 Es werden für den Hauptstandort 3 HDD Disk je 1 TB benötigt.\
 Im aussenstehenden Posten werden noch 2 HDD Disk mit je 500 GB Benötigt.
 
-[]**Ressourcen Bedarf**
+**Ressourcen Bedarf**
 
 Der Active Directory benötigt: 4 GB Ram und 4 Kerne je 2,2GHz
 Taktfrequenz.\
 Der Ubuntu Webserver benötigt: 2 GB Ram und 2 Kerne je 2,2 GHz
 Taktfrequenz.\
 Die beiden Veeam Server benötigen je 4GB Ram und 4 kerne je 2,2GHz
-Taktfrequenz.**\
+Taktfrequenz.\
 \
 Datensicherung**
 
@@ -362,7 +362,7 @@ unter «Backup» gestartet werden:\
 Automatisch generierte
 Beschreibung](./media/image12.png)\
 Das File Backup hat ebenso funktioniert und wird am Abend um 23:00
-gebackupt.**\
+gebackupt.\
 **![](./media/image13.png)\
 Die Files werden auf dem BAckupsurver unter «F:\\Backup\\Files»
 gespeichert.![Ein Bild, das Text, Screenshot, Zahl enthält. Automatisch
@@ -370,23 +370,23 @@ generierte Beschreibung](./media/image14.png)\
 \
 Restore Verfahren über Veeam
 
-Bei einem Server Ausfall kann man wie folgt gehen**\
+Bei einem Server Ausfall kann man wie folgt gehen\
 **![Ein Bild, das Text, Screenshot, Software, Computersymbol enthält.
 Automatisch generierte
 Beschreibung](./media/image15.png)**\
 **Danach auf restore from backup**\
 **![Ein Bild, das Text, Screenshot, Schrift enthält. Automatisch
 generierte
-Beschreibung](./media/image16.png)**\
+Beschreibung](./media/image16.png)\
 **In unserem Beispiel ist die ganze Vm zerstört worden, darum wählen
-wir» Entire VM Restore» aus:**\
+wir» Entire VM Restore» aus:\
 **![Ein Bild, das Text, Screenshot, Schrift, Zahl enthält. Automatisch
-generierte Beschreibung](./media/image17.png)**\
-**danach auf «Entire VM restore».**\
+generierte Beschreibung](./media/image17.png)\
+**danach auf «Entire VM restore».\
 **![Ein Bild, das Text, Screenshot, Schrift, Zahl enthält. Automatisch
 generierte
 Beschreibung](./media/image18.png)\
-Danach wählt man die VM aus die restored werden muss.**\
+Danach wählt man die VM aus die restored werden muss.\
 **![Ein Bild, das Text, Screenshot, Schrift, Software enthält.
 Automatisch generierte Beschreibung](./media/image19.png)
 
@@ -400,7 +400,7 @@ in unserem Fall die VM eh nicht mehr funktioniert stellt das kein
 Problem dar.**\
 \
 **![Ein Bild, das Text, Screenshot, Software, Computersymbol enthält.
-Automatisch generierte Beschreibung](./media/image21.png)**\
+Automatisch generierte Beschreibung](./media/image21.png)\
 **![Ein Bild, das Text, Screenshot, Schrift, Reihe enthält. Automatisch
 generierte
 Beschreibung](./media/image22.png)**\
